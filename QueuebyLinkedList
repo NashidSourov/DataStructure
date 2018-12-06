@@ -57,7 +57,7 @@ int remove()
 
     {
 
-        cout<<"empty stack\n";
+        cout<<"empty queue\n";
 
     }
 
@@ -85,7 +85,7 @@ int main()
 
     int n, c = 0, x;
 
-    cout<<"Enter the number of values to be pushed into stack\n";
+    cout<<"Enter the number of values to be pushed into queue\n";
 
     cin>>n;
 
@@ -93,7 +93,7 @@ int main()
 
     {
 
-	cout<<"Enter the value to be entered into stack\n";
+	cout<<"Enter the value to be entered into queue\n";
 
 	cin>>x;
 
